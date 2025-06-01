@@ -1,0 +1,13 @@
+{
+    "description": "Admin's Portfolio",
+    "domain": "justs.rocks",
+    "subdomain": "admin",
+    "owner": {
+        "username": "mosesberw",
+        "email": "admin@justs.rocks"
+    },
+    "record": {
+        "CNAME": "mosesberw.justs.rocks",
+    },
+    "proxied": false
+}
