@@ -1,0 +1,13 @@
+{
+  "description": "Project Description",
+  "domain": "justs.rocks",
+  "subdomain": "aditya",
+  "owner": {
+    "username": "502BadPing",
+    "email": "aditya.sen1hl@gmail.com"
+  },
+  "record": {
+    "CNAME": "google.com"
+  },
+  "proxied": false
+}
